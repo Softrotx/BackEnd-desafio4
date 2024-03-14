@@ -1,0 +1,76 @@
+[
+	{
+		"id": 619,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "4444",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food"
+	},
+	{
+		"id": 144,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "333",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food"
+	},
+	{
+		"id": 884,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "234",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food"
+	},
+	{
+		"id": 760,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "2345657",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food",
+		"thumbnails": "[http://123.com/123]"
+	},
+	{
+		"id": 255,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "2322",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food",
+		"thumbnails": "[http://123.com/123]"
+	},
+	{
+		"id": 666,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "422",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food",
+		"thumbnails": "[http://123.com/123]"
+	},
+	{
+		"id": 236,
+		"title": "producto de prueba0100",
+		"description": "descripcion del producto",
+		"code": "466",
+		"price": 30000,
+		"status": true,
+		"stock": "23",
+		"category": "food",
+		"thumbnails": "[http://123.com/123]"
+	}
+]
